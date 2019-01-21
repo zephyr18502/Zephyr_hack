@@ -3,9 +3,9 @@ It is a user friendly, easy to implement GUI for GSM IMSI catching. Any user fro
 Following a passive approach using this app is implemented using Ubuntu 14.04 and requires SDR packages including GNURadio, Kalibrate-rtl, , GR-GSM and a python script simple_IMSI-catcher.py.
 It should be noted that it is only for educational purpose and not for juveline hacking.
 
-Basically, i have used the work of ptrkrysik/gr-gsm, the pioneer in rtl-sdr IMSI catching, secondly Oros42/IMSI-catcher, whose IMSI catching script is being used.
+Basically, i have used the work of ptrkrysik/gr-gsm, the pioneer in rtl-sdr  GSM IMSI catching, secondly Oros42/IMSI-catcher, whose IMSI catching script is being used.
 
-The following app is based on the work done by the above two gentlemen. 
+The following app is based on the work done by the above mentioned gentlemen. 
 
 Any help and improvement would be highly appreciated
 
