@@ -1,0 +1,13 @@
+Script started on Mon 14 Jan 2019 08:46:22 PM UTC
+Found 1 device(s):
+  0:  Generic RTL2832U OEM
+
+Using device 0: Generic RTL2832U OEM
+Detached kernel driver
+Found Rafael Micro R820T tuner
+Exact sample rate is: 270833.002142 Hz
+[R82XX] PLL not locked!
+Setting gain: 40.0 dB
+kal: Scanning for GSM-900 base stations.
+r82xx_write: i2c wr failed=-9 reg=10 len=1
+r82xx_set_freq: failed=-9
