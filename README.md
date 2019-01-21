@@ -9,7 +9,7 @@ The following app is based on the work done by the above two gentlemen.
 
 Any help and improvement would be highly appreciated
 
-I would like to dedicate my work to all the hardworking researcher working for the betterment of man-kind and espacially to ptrkrysik/gr-gsm and Oros42/IMSI-catcher,
+I would like to dedicate my work to all the hardworking researcher working for the betterment of man-kind and especially to ptrkrysik/gr-gsm and Oros42/IMSI-catcher,
 for building the firm foundation on which i have just sprinkled my contribution
 
 I wish you good health and God speed.
